@@ -1,3 +1,8 @@
+// I think playing video games will be the most fun thing I did this week
+// Most of my time probably went to school and work stuff
+// I feel like the stuff I did in the evening was probably more enjoyable overall
+
+
 const myWeek = [
   { day: "Monday", activity: "Doing School Work", category: "academic", hoursSpent: 2, enjoyment: 6, timeOfDay: "afternoon" },
   { day: "Tuesday", activity: "Working Out", category: "physical", hoursSpent: 1, enjoyment: 7, timeOfDay: "morning" },
